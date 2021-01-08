@@ -7,10 +7,9 @@
 
 Restaurants are looking for a edible mushrooms. It's important to weed all poisonous cases out so no customers face adverse side effects. A single slip up could lead to an ill customer or even a death. This situation must be avoided. 
 
-### Sourcing Your Own Data
+### Data
 
-attach kaggle maybe
-* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Kaggle Datasets](https://www.kaggle.com/uciml/mushroom-classification)
 
 ### The Data
 
