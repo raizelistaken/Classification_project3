@@ -50,9 +50,9 @@ Habitat: From the habitat graph one can see that waste has edible mushrooms. Woo
 
 ![decision_tree](images/tree.png)
 
--random forest
+-random forest: uses multiple models to predict the on the categorical variables (edible and poisonous)
 
--logistic regression
+-logistic regression: used to predict on the categorical variables (edible and poisonous0
 
 
 ## Summary
