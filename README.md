@@ -1,7 +1,7 @@
 
 # Mushroom Classification
 
-![mushroom](images/ insert mushroom jpeg here)
+![mushroom](images/mushroom.jpg)
 
 ## Project Overview
 
