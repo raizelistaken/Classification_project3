@@ -1,7 +1,7 @@
 
 # Mushroom Classification
 
-![bar](images/bargraphsPE.jpg)
+![mushroom](images/ insert mushroom jpeg here)
 
 ## Project Overview
 
@@ -9,9 +9,9 @@ Restaurants are looking for a edible mushrooms with 100% accuracy. A single slip
 
 ### The Data
 
-You have the option to either **choose a dataset from a curated list** or **choose your own dataset _not on the list_**. The goal is to choose a dataset appropriate to the type of business problem and/or classification methods that most interests you. It is up to you to define a stakeholder and business problem appropriate to the dataset you choose. If you are feeling overwhelmed or behind, we recommend you choose dataset #2 or #3 from the curated list.
+![class](images/class.PNG)
 
-If you choose a dataset from the curated list, **inform your instructor which dataset you chose** and jump right into the project. If you choose your own dataset, **run the dataset and business problem by your instructor for approval** before starting your project.
+class: The first bar graph that displays the counts for each class, help us clear any possibility of inaccuracy due to a class imbalance. The data is almost evenly split around the categorical variables edible and poisonous.
 
 ### Sourcing Your Own Data
 
