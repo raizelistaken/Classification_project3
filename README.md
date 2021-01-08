@@ -17,7 +17,7 @@ class: The first bar graph that displays the counts for each class, help us clea
 
 odor: Interestingly, things that we would typically consider "good" smells are for mainly for edible mushrooms. All other less pleasant smelling mushrooms are indications of a poisonous species.
 
-![ring](images/)
+![ring](images/ringnumber.JPG)
 
 Ring number: There's a lot of uncertainty with one ring. One ring could be edible or poisonous. Two rings mushrooms are likely to be edible, but we can't be positive. Mushrooms without rings are poisonous.
 
@@ -25,7 +25,7 @@ Ring number: There's a lot of uncertainty with one ring. One ring could be edibl
 
 Spore-print-color: Buff, yellow, orange, and purple mushrooms are edible. Green mushrooms are poisonous. Black and brown mushrooms are mostly edible, but not entirely. Chocolate and white colored mushrooms are mostly poisonous.
 
-
+![habitat](images/habitat.JPG)
 
 Habitat: From the habitat graph one can see that waste has edible mushrooms. Wood and grass areas are more likely to have edible mushrooms, but a lot of mushrooms found in the woody and grassy areas are poisonous. Paths are likely to have poisonous mushrooms.
 
