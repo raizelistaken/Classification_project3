@@ -42,7 +42,7 @@ Habitat: From the habitat graph one can see that waste has edible mushrooms. Woo
    - rings: does the mushroom have rings
    - odor: split on pleasant and bad odors
    - spore print color: from the bar graph buff, yellow, orange, and purple mushrooms are edible and green are poisonous
-   - common characteristics: feature engineer common characteristic of poisonous and edible mushrooms. Domain information came from [Mushroom Appreciation] (https://www.mushroom-appreciation.com/identify-poisonous-mushrooms.html#sthash.h1mUk3jo.dpbs) and [Sciencing] (https://sciencing.com/identify-poisonous-mushrooms-2057768.html) for poisonous mushrooms and [WikiHow] (https://www.wikihow.com/Identify-Edible-Mushrooms) for edible mushrooms. 
+   - common characteristics: feature engineer common characteristic of poisonous and edible mushrooms. Domain information came from [Mushroom Appreciation](https://www.mushroom-appreciation.com/identify-poisonous-mushrooms.html#sthash.h1mUk3jo.dpbs) and [Sciencing](https://sciencing.com/identify-poisonous-mushrooms-2057768.html) for poisonous mushrooms and [WikiHow](https://www.wikihow.com/Identify-Edible-Mushrooms) for edible mushrooms. 
 
 -grid search: used to find the best hyperparameters for each model
 
