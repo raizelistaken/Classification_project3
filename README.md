@@ -42,17 +42,17 @@ Habitat: From the habitat graph one can see that waste has edible mushrooms. Woo
    - rings: does the mushroom have rings
    - odor: split on pleasant and bad odors
    - spore print color: from the bar graph buff, yellow, orange, and purple mushrooms are edible and green are poisonous
-   - common characteristics: feature engineer common characteristic of poisonous and edible mushrooms
+   - common characteristics: feature engineer common characteristic of poisonous and edible mushrooms. Domain information came from [Mushroom Appreciation] (https://www.mushroom-appreciation.com/identify-poisonous-mushrooms.html#sthash.h1mUk3jo.dpbs) and [Sciencing] (https://sciencing.com/identify-poisonous-mushrooms-2057768.html) for poisonous mushrooms and [WikiHow] (https://www.wikihow.com/Identify-Edible-Mushrooms) for edible mushrooms. 
 
--grid search: used to find the best hyperparameters
+-grid search: used to find the best hyperparameters for each model
 
--decision tree
+-model 1: random forest: uses multiple models to predict the on the categorical variables by splitting on those features that are the most important. (greedy)
+
+-model 2: decision tree: Spore print color and viel-type had a huge affect on the classification power of decision trees. So, to make a fair model, we removed those two columns and tuned the model that did not spore print color and viel-type.
 
 ![decision_tree](images/tree.png)
 
--random forest: uses multiple models to predict the on the categorical variables (edible and poisonous)
-
--logistic regression: used to predict on the categorical variables (edible and poisonous0
+-model 3: logistic regression: used to predict on the label encoded numerical values of the dataset to give us our Beta values, also known as logged odds coeficients for each feature. This helps us decide which features are the most important using predictive probability.
 
 
 ## Summary
