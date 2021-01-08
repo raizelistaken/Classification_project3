@@ -50,7 +50,7 @@ Habitat: From the habitat graph one can see that waste has edible mushrooms. Woo
 
 -Model 2: decision tree: Spore print color and veil-type had a huge effect on the classification power of decision trees. So, to make a fair model, we removed those two columns and tuned the model that did not spore print color and veil-type.
 
-![decision_tree](images/tree.png)
+![most_important](images/dtree_ft_importance.png)
 
 -Model 3: logistic regression: used to predict on the label encoded numerical values of the dataset to give us our Beta values, also known as logged odds coefficients for each feature. This helps us decide which features are the most important using predictive probability.
 
