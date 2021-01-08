@@ -21,7 +21,7 @@ odor: Interestingly, things that we would typically consider "good" smells are f
 
 Ring number: There's a lot of uncertainty with one ring. One ring could be edible or poisonous. Two rings mushrooms are likely to be edible, but we can't be positive. Mushrooms without rings are poisonous.
 
-![spre_color](images/spore_color.JPG)
+![spore_color](images/spore_color.JPG)
 
 Spore-print-color: Buff, yellow, orange, and purple mushrooms are edible. Green mushrooms are poisonous. Black and brown mushrooms are mostly edible, but not entirely. Chocolate and white colored mushrooms are mostly poisonous.
 
