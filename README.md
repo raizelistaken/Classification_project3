@@ -37,7 +37,8 @@ Habitat: From the habitat graph one can see that waste has edible mushrooms. Woo
 
 ## Methods
 
--grid search
+-feature engineering
+-grid search: used to find the best hyperparameters
 -decision tree
 -random forest
 -logistic regression
