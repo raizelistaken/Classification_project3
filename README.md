@@ -31,21 +31,7 @@ Habitat: From the habitat graph one can see that waste has edible mushrooms. Woo
 
 ### Sourcing Your Own Data
 
-Sourcing new data is a valuable skill for data scientists, but it requires a great deal of care. An inappropriate dataset or an unclear business problem can lead you spend a lot of time on a project that delivers underwhelming results. The guidelines below will help you complete a project that demonstrates your ability to engage in the full data science process.
-
-Your dataset must be...
-
-1. **Appropriate for classification.** It should have a categorical outcome or the data needed to engineer one.   
-
-2. **Usable to solve a specific business problem.** This solution must rely on your classification model.
-
-3. **Somewhat complex.** It should contain a minimum of 1000 rows and 10 features.
-
-4. **Unfamiliar.** It can't be one we've already worked with during the course or that is commonly used for demonstration purposes (e.g. MNIST).
-
-5. **Manageable.** Stick to datasets that you can model using the techniques introduced in Phase 3.
-
-Once you've sourced your own dataset and identified the business problem you want to solve with it, you must to **run them by your instructor for approval**.
+attach kaggle maybe
 
 #### Problem First, or Data First?
 
