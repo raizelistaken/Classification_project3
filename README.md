@@ -1,7 +1,7 @@
 
 # Mushroom Classification
 
-![bar](/https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-3-project/main/images/bargraphsPE.jpg)
+![bar](images/bargraphsPE.jpg)
 
 ## Project Overview
 
